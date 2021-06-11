@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @harshrastogi374
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning web development 
-- 📫 How to reach me 7217602616 or Hrastogi374@gmail.com
-
-<!---
-harshrastogi374/harshrastogi374 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Harsh Rastogi.
+- 👀 I’m interested in web development. 
+- 🌱 I’m currently learning web development. 
+- 📫 How to reach me 7217603616,9354210380 or hrastogi374@gmail.com.
+- Currently I am looking for an Internship where I can learn and can do work in realtime enviornment.
